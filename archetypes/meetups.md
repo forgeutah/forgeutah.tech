@@ -4,9 +4,8 @@ date: {{ .Date }}
 meetupLink:
 banner:
 logo:
-chairs:
-- name: Clint Berry
-  image: clintberry.jpg
+chairs: #use IDs from data/people.json
+- clintberry
 locationSponsor:
   name: Weave
   link: https://getweave.com
@@ -17,5 +16,6 @@ foodSponsor:
   logo: weave.jpg
 
 draft: true
-
 ---
+
+Meetup description goes here
