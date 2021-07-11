@@ -62,7 +62,7 @@ chairs:
 
 ### Add New Blog Post
 
-`hguo new blog/name-of-my-post.md`
+`hugo new blog/name-of-my-post.md`
 
 
 
